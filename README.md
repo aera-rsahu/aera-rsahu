@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rebati Raman Sahu [@aera-rsahu]
-- 📫 You can reach me at +91-9437180842 
+- 📫 You can reach out to me at +91-9437180842 
 
 <!---
 aera-rsahu/aera-rsahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
